@@ -38,5 +38,3 @@
 此專案可用於開發期間，方便將外部服務 (如 LINE Message API、Webhook 等)  
 透過 Vercel 代理至本機 ngrok 通道，避免直接暴露本地端服務。
 
-## 流程
-<a href="https://imgbox.com/Tp3Do60c" target="_blank"><img src="https://thumbs2.imgbox.com/dd/e1/Tp3Do60c_t.png" alt="image host"/></a>
